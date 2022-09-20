@@ -1,4 +1,5 @@
-```Nam mô a di Đà Phật!
+```
+Nam mô a di Đà Phật!
 Nam mô a di Đà Phật!
 Nam mô a di Đà Phật!
 
@@ -31,4 +32,5 @@ Chúng con lễ bạc tâm thành, trước án kính lễ, cúi xin được ph
 
 Nam mô a di Đà Phật!
 Nam mô a di Đà Phật!
-Nam mô a di Đà Phật!```
+Nam mô a di Đà Phật!
+```
